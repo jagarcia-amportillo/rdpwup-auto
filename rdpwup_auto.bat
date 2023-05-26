@@ -3,7 +3,7 @@ REM *****************************************
 REM [NOMBRE]: rdpw_auto
 REM [TIPO]: DOCUMENTACIÓN CÓDIGO
 REM [LENGUAJE]: script bash
-REM [VERSIÓN]: 2.0.0
+REM [VERSIÓN]: 0.2.1
 REM [BUILD]: 105
 REM [CREACIÓN]:20230526
 REM [ACTUALIZACION]: 202030526
@@ -17,12 +17,15 @@ REM    Registro en log de las ejecuciones
 REM *****************************************
 REM [HISTORICO]:
 
-REM V2.0.0 - [ALPHA1] - build 104 - 20230526
+REM V0.2.1 - [ALPHA1] - build 105 - 20230526
+REM    - Corregido el versionado para github. 
+
+REM V0.2.0 - [ALPHA1] - build 104 - 20230526
 REM    - Añadida la funcionalidad del log. 
 REM    - Añadida la documentación de código. 
 REM    - 
 
-REM v1.0.0 build 101 20230526
+REM v0.1.0 build 101 20230526
 REM    - Creado el script para lanzar el programa en MODO AUTO. 
 
 REM ****************************************
